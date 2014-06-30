@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>Hello World</title>
+
+<title>New Life with Git, lets start tracking</title>
 </head>
 <body>
   <p>
